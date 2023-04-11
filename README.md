@@ -16,7 +16,7 @@
 
 [Презентация](https://docs.google.com/presentation/d/1EEfYxD_0U0HGcVE1K_5BcYil8JaxhusKsKMwCRDBxTU/edit?usp=sharing)
 
-[Дашборд](https://public.tableau.com/views/FinalProject_16800105965220/sheet7?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Дашборд](https://public.tableau.com/views/FPretail/sheet2?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 
