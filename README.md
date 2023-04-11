@@ -14,9 +14,9 @@
 
 Дата содержит данные о закупках в магазине строительных материалов «Строили, построили и наконец построили». Все покупатели могут получить доступ в магазин с использованием карты Франции. За 200 рублей в месяц они стали обнаруживать программы лояльности. В программе предусмотрены скидки, специальные предложения, подарки.
 
-Презентация: https://docs.google.com/presentation/d/1EEfYxD_0U0HGcVE1K_5BcYil8JaxhusKsKMwCRDBxTU/edit?usp=sharing
+[Презентация](https://docs.google.com/presentation/d/1EEfYxD_0U0HGcVE1K_5BcYil8JaxhusKsKMwCRDBxTU/edit?usp=sharing)
 
-Дашборд:     https://public.tableau.com/views/FinalProject_16800105965220/sheet7?:language=en-US&:display_count=n&:origin=viz_share_link
+[Дашборд](https://public.tableau.com/views/FinalProject_16800105965220/sheet7?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 
